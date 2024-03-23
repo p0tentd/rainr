@@ -1,6 +1,6 @@
-# rainr - discord.py templates<br><br>
+# rainr - discord.py templates<br>
 
-## rainr a discord.py program that can produce quick, easy-to-understand templates.<br><br> 
+## rainr is a program made in rust to provide simple discord.py templates that are quick and easy to use.<br> 
 
 ## usage<br>
 ```bash
@@ -10,7 +10,7 @@ cargo build --release
 cd target/release
 ./rainr <template> <file>
 ```
-you can also add it to your path to use it anywhere with `rainr <template> <file>`<br><br>
+you can also add it to your path to use it anywhere with `rainr <template> <file>`<br>
 
 theres 2 templates to choose from: basic & commands<br>
 commands - includes the 3 slash commands: ping, addition & kick<br>
